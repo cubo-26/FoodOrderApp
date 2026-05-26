@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DLU Food</string>
+    <string name="search_hint">Tìm kiếm món ăn...</string>
+    <string name="add_to_cart">Thêm vào giỏ</string>
+    <string name="order_now">Đặt ngay</string>
+    <string name="cart">Giỏ hàng</string>
+    <string name="manage_foods">Quản lý món ăn</string>
+    <string name="place_order">Đặt hàng</string>
+    <string name="invoice">Hóa đơn</string>
+    <string name="default_web_client_id">8363604912-aula2ss7ntpc5a334isuhof0cil3c9o2.apps.googleusercontent.com</string>
+</resources>

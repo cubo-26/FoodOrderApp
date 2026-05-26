@@ -1,0 +1,802 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:2:1-59:12
+MERGED from [androidx.databinding:viewbinding:9.2.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/c8ba04a8a66ced5e3d8b29cc92a34ee7/transformed/jetified-viewbinding-9.2.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5cff3fe061de74cd59e6fb862eb564e0/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8859ed911daee39f8bcba93cd715bea9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/cb516b8723cdaa9dea658539df2ad778/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/cecbbc6202188393f2f2a86153e910b4/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b26962413f96213d0108399886aadcc9/transformed/jetified-viewpager2-1.1.0-beta02/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/de036505ceeca756c2616823fd534aa8/transformed/recyclerview-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e854dd4bf77daf548684b50192cd5037/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/ad13ff398a17227c94e1cc7ac55aed36/transformed/jetified-glide-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/33bc51c425be9c6083b7b6b92cff892e/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/71416cf7370f3cf2101a8cfc8c311d26/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/cc3a3eac044e169a3bcbdda9731ac7c6/transformed/jetified-credentials-1.2.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/1f5c8ba2de0c755fb9387d5e5f2fdd5f/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/cec406dd5f16b327f149811ef1ef9b06/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b2571fb8631337c9f491251908ef2918/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/041bad73b330666fdcc24f705fccf8ce/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/7d63faf8e544796cefe569a52a385708/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/ec3c1a41014ebabcafc1a1a38e033252/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-sessions:3.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/36b88ae17a4c34ab1cb1ba01dd96b6bd/transformed/jetified-firebase-sessions-3.0.6/AndroidManifest.xml:15:1-35:12
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9eeecaf3f719459c894ff59695a1d634/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b6922ef24044957bc9b75315daf8c940/transformed/jetified-firebase-installations-interop-17.2.0/AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/38fb93ee4f8005569c8ed6824276b273/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e1eeb42a62a3e45c76cae0a5b88c7229/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/989bc080a14582078ed4ade3bdcd2e64/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/f510449288268131d3ed043a59294e3e/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4d5869585bb1827548394c78a1918ab8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/1373182d52b5d8b3b1bde1ab7d17d83f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/12b02e69d2f429c740b04e5f7a58fa46/transformed/loader-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/06dd50a45cc7e13ec2d53d4586b3293c/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bc6840ce4344a87145aa54f45661b09e/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/daa9cdd840c898d96f95e5ef94b30888/transformed/jetified-datastore-preferences-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4abfa811347fb2cb01aa50ea82d072a4/transformed/jetified-datastore-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/db6dd1be619a58af68e5736f188b585a/transformed/jetified-datastore-preferences-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/2c4a05168656d7bbe3752a56ac6396fc/transformed/jetified-datastore-release/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/2e25da001eb81179a081da804e73d5b6/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/33074427847419643001920f408978e7/transformed/jetified-play-services-tasks-18.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8e970a0578c96ad8e688d79aaf887280/transformed/jetified-firebase-measurement-connector-20.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.8.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b3686b756658dbcd5d933af85060c533/transformed/jetified-play-services-basement-18.8.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0df2089a2e75add309ce5de1eca1ae56/transformed/fragment-1.5.7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9afe11cbbf186eb302444573a144851d/transformed/jetified-activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5d3cb84a5783e66d6061936c27ebfde6/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/fb3e93a5c50dc224d194c8c08f15a0ee/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/24af9641e8983a1bd4c823efb1b2be6d/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/f0c3054402e37df18182aa40667cd44c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4e593bdd4bb6be110c802ff72c23788e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b9eda7b47dc3035d91df4e86fb482da5/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4c0e8c491daf1bbc5fe5a1e9bd895026/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/f078fb1293440a83b2c1ebc5ae56db7c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/303dc5c48a8e559d0aa5f29a9d7bc95c/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/a0cbb86786cf9ada8cdfbf423edf777e/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5e59ada82126fe562462a9adb669577d/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/dd009fc102c21e5c115b77a094230df1/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/a4e5e840e04342394af2ff687782c5da/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/42c3babb8e5adf090c14eb2d00dd6d35/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/96def0e2baadd5d206216b3bd4cf3343/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/93b8432f875b76997f1af1776cef6481/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8202d0464b2d05de59b16b0b4714b7db/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/73e524ddbf184bd0378ccda1b6de5719/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/64121b0ec5ae29a71c391e1d737c2e2a/transformed/jetified-firebase-components-19.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-config-interop:16.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9365e8f0ab5e73739332065b8ce972f9/transformed/jetified-firebase-config-interop-16.0.1/AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e78de79c9d455b4ed0d656bfee5f7b62/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:15:1-35:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6fc087e283e932212d2670442be7fd0e/transformed/jetified-firebase-encoders-json-18.0.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.datatransport:transport-api:3.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/be996d08a15714b7d2941b418d453b27/transformed/jetified-transport-api-3.2.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/2e9e4a13926bb9bb3cf660d5cdccad45/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/083850a24d15f8acc7d0255dd04d3d20/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/3010e6996a7785d8cda6a0dc802c6e7a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b3f08c34fed3e1b2705c38c1a25e8121/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/69f9b1b178627aaca0e554b9e8f3e1d5/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bb04b1de86baaef0e00f749cbcbf0345/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d35e19b2bdb43bb015d3769ef47af518/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e2ec55bdd25f20f37bfc66d2b26ca16a/transformed/jetified-googleid-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9422f573cec78dc23009831f436d330b/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4e3e2e18706163f8a8e5c7b283c0db9f/transformed/jetified-protolite-well-known-types-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/c8cd20be104ba767211703ce1bb7b698/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/38fb93ee4f8005569c8ed6824276b273/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/38fb93ee4f8005569c8ed6824276b273/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:6:5-57:19
+INJECTED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:6:5-57:19
+MERGED from [com.google.android.material:material:1.11.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5cff3fe061de74cd59e6fb862eb564e0/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5cff3fe061de74cd59e6fb862eb564e0/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8859ed911daee39f8bcba93cd715bea9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8859ed911daee39f8bcba93cd715bea9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:11:5-22:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/71416cf7370f3cf2101a8cfc8c311d26/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/71416cf7370f3cf2101a8cfc8c311d26/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:28:5-73:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b2571fb8631337c9f491251908ef2918/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b2571fb8631337c9f491251908ef2918/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/7d63faf8e544796cefe569a52a385708/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/7d63faf8e544796cefe569a52a385708/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/ec3c1a41014ebabcafc1a1a38e033252/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/ec3c1a41014ebabcafc1a1a38e033252/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-sessions:3.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/36b88ae17a4c34ab1cb1ba01dd96b6bd/transformed/jetified-firebase-sessions-3.0.6/AndroidManifest.xml:21:5-33:19
+MERGED from [com.google.firebase:firebase-sessions:3.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/36b88ae17a4c34ab1cb1ba01dd96b6bd/transformed/jetified-firebase-sessions-3.0.6/AndroidManifest.xml:21:5-33:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9eeecaf3f719459c894ff59695a1d634/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9eeecaf3f719459c894ff59695a1d634/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/989bc080a14582078ed4ade3bdcd2e64/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/989bc080a14582078ed4ade3bdcd2e64/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/2e25da001eb81179a081da804e73d5b6/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/2e25da001eb81179a081da804e73d5b6/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/33074427847419643001920f408978e7/transformed/jetified-play-services-tasks-18.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/33074427847419643001920f408978e7/transformed/jetified-play-services-tasks-18.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8e970a0578c96ad8e688d79aaf887280/transformed/jetified-firebase-measurement-connector-20.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8e970a0578c96ad8e688d79aaf887280/transformed/jetified-firebase-measurement-connector-20.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.8.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b3686b756658dbcd5d933af85060c533/transformed/jetified-play-services-basement-18.8.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.8.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b3686b756658dbcd5d933af85060c533/transformed/jetified-play-services-basement-18.8.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8202d0464b2d05de59b16b0b4714b7db/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8202d0464b2d05de59b16b0b4714b7db/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e78de79c9d455b4ed0d656bfee5f7b62/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e78de79c9d455b4ed0d656bfee5f7b62/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:25:5-33:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:25:5-33:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:23:5-37:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:23:5-37:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/083850a24d15f8acc7d0255dd04d3d20/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/083850a24d15f8acc7d0255dd04d3d20/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/c8cd20be104ba767211703ce1bb7b698/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/c8cd20be104ba767211703ce1bb7b698/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:12:9-50
+activity#com.example.foodorderapp.SplashActivity
+ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:exported
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:16:13-36
+	android:theme
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:17:13-61
+	android:name
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:15:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.example.foodorderapp.MainActivity
+ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:24:9-27:58
+	android:windowSoftInputMode
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:27:13-55
+	android:exported
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:25:13-41
+activity#com.example.foodorderapp.LoginActivity
+ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:29:9-31:40
+	android:exported
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:30:13-42
+activity#com.example.foodorderapp.RegisterActivity
+ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:33:9-35:40
+	android:exported
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:34:13-45
+activity#com.example.foodorderapp.FoodDetailActivity
+ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:37:9-40:58
+	android:parentActivityName
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:40:13-55
+	android:exported
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:38:13-47
+activity#com.example.foodorderapp.CartActivity
+ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:42:9-45:58
+	android:parentActivityName
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:45:13-55
+	android:exported
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:43:13-41
+activity#com.example.foodorderapp.InvoiceActivity
+ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:47:9-50:58
+	android:parentActivityName
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:50:13-55
+	android:exported
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:48:13-44
+activity#com.example.foodorderapp.ManageActivity
+ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:52:9-55:58
+	android:parentActivityName
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:55:13-55
+	android:exported
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml:53:13-43
+uses-sdk
+INJECTED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:9.2.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/c8ba04a8a66ced5e3d8b29cc92a34ee7/transformed/jetified-viewbinding-9.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:9.2.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/c8ba04a8a66ced5e3d8b29cc92a34ee7/transformed/jetified-viewbinding-9.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5cff3fe061de74cd59e6fb862eb564e0/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5cff3fe061de74cd59e6fb862eb564e0/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8859ed911daee39f8bcba93cd715bea9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8859ed911daee39f8bcba93cd715bea9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/cb516b8723cdaa9dea658539df2ad778/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/cb516b8723cdaa9dea658539df2ad778/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/cecbbc6202188393f2f2a86153e910b4/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/cecbbc6202188393f2f2a86153e910b4/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b26962413f96213d0108399886aadcc9/transformed/jetified-viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b26962413f96213d0108399886aadcc9/transformed/jetified-viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/de036505ceeca756c2616823fd534aa8/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/de036505ceeca756c2616823fd534aa8/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e854dd4bf77daf548684b50192cd5037/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e854dd4bf77daf548684b50192cd5037/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/ad13ff398a17227c94e1cc7ac55aed36/transformed/jetified-glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/ad13ff398a17227c94e1cc7ac55aed36/transformed/jetified-glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/33bc51c425be9c6083b7b6b92cff892e/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/33bc51c425be9c6083b7b6b92cff892e/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/71416cf7370f3cf2101a8cfc8c311d26/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/71416cf7370f3cf2101a8cfc8c311d26/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/cc3a3eac044e169a3bcbdda9731ac7c6/transformed/jetified-credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/cc3a3eac044e169a3bcbdda9731ac7c6/transformed/jetified-credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/1f5c8ba2de0c755fb9387d5e5f2fdd5f/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/1f5c8ba2de0c755fb9387d5e5f2fdd5f/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/cec406dd5f16b327f149811ef1ef9b06/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/cec406dd5f16b327f149811ef1ef9b06/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b2571fb8631337c9f491251908ef2918/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b2571fb8631337c9f491251908ef2918/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/041bad73b330666fdcc24f705fccf8ce/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/041bad73b330666fdcc24f705fccf8ce/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/7d63faf8e544796cefe569a52a385708/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/7d63faf8e544796cefe569a52a385708/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/ec3c1a41014ebabcafc1a1a38e033252/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/ec3c1a41014ebabcafc1a1a38e033252/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-sessions:3.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/36b88ae17a4c34ab1cb1ba01dd96b6bd/transformed/jetified-firebase-sessions-3.0.6/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-sessions:3.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/36b88ae17a4c34ab1cb1ba01dd96b6bd/transformed/jetified-firebase-sessions-3.0.6/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9eeecaf3f719459c894ff59695a1d634/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9eeecaf3f719459c894ff59695a1d634/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b6922ef24044957bc9b75315daf8c940/transformed/jetified-firebase-installations-interop-17.2.0/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b6922ef24044957bc9b75315daf8c940/transformed/jetified-firebase-installations-interop-17.2.0/AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/38fb93ee4f8005569c8ed6824276b273/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/38fb93ee4f8005569c8ed6824276b273/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e1eeb42a62a3e45c76cae0a5b88c7229/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e1eeb42a62a3e45c76cae0a5b88c7229/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/989bc080a14582078ed4ade3bdcd2e64/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/989bc080a14582078ed4ade3bdcd2e64/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/f510449288268131d3ed043a59294e3e/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/f510449288268131d3ed043a59294e3e/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4d5869585bb1827548394c78a1918ab8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4d5869585bb1827548394c78a1918ab8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/1373182d52b5d8b3b1bde1ab7d17d83f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/1373182d52b5d8b3b1bde1ab7d17d83f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/12b02e69d2f429c740b04e5f7a58fa46/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/12b02e69d2f429c740b04e5f7a58fa46/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/06dd50a45cc7e13ec2d53d4586b3293c/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/06dd50a45cc7e13ec2d53d4586b3293c/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bc6840ce4344a87145aa54f45661b09e/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bc6840ce4344a87145aa54f45661b09e/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/daa9cdd840c898d96f95e5ef94b30888/transformed/jetified-datastore-preferences-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/daa9cdd840c898d96f95e5ef94b30888/transformed/jetified-datastore-preferences-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4abfa811347fb2cb01aa50ea82d072a4/transformed/jetified-datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4abfa811347fb2cb01aa50ea82d072a4/transformed/jetified-datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/db6dd1be619a58af68e5736f188b585a/transformed/jetified-datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/db6dd1be619a58af68e5736f188b585a/transformed/jetified-datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/2c4a05168656d7bbe3752a56ac6396fc/transformed/jetified-datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/2c4a05168656d7bbe3752a56ac6396fc/transformed/jetified-datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/2e25da001eb81179a081da804e73d5b6/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/2e25da001eb81179a081da804e73d5b6/transformed/jetified-integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/33074427847419643001920f408978e7/transformed/jetified-play-services-tasks-18.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.4.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/33074427847419643001920f408978e7/transformed/jetified-play-services-tasks-18.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8e970a0578c96ad8e688d79aaf887280/transformed/jetified-firebase-measurement-connector-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8e970a0578c96ad8e688d79aaf887280/transformed/jetified-firebase-measurement-connector-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.8.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b3686b756658dbcd5d933af85060c533/transformed/jetified-play-services-basement-18.8.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.8.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b3686b756658dbcd5d933af85060c533/transformed/jetified-play-services-basement-18.8.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0df2089a2e75add309ce5de1eca1ae56/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0df2089a2e75add309ce5de1eca1ae56/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9afe11cbbf186eb302444573a144851d/transformed/jetified-activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9afe11cbbf186eb302444573a144851d/transformed/jetified-activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5d3cb84a5783e66d6061936c27ebfde6/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5d3cb84a5783e66d6061936c27ebfde6/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/fb3e93a5c50dc224d194c8c08f15a0ee/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/fb3e93a5c50dc224d194c8c08f15a0ee/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/24af9641e8983a1bd4c823efb1b2be6d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/24af9641e8983a1bd4c823efb1b2be6d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/f0c3054402e37df18182aa40667cd44c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/f0c3054402e37df18182aa40667cd44c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4e593bdd4bb6be110c802ff72c23788e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4e593bdd4bb6be110c802ff72c23788e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b9eda7b47dc3035d91df4e86fb482da5/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b9eda7b47dc3035d91df4e86fb482da5/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4c0e8c491daf1bbc5fe5a1e9bd895026/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4c0e8c491daf1bbc5fe5a1e9bd895026/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/f078fb1293440a83b2c1ebc5ae56db7c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/f078fb1293440a83b2c1ebc5ae56db7c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/303dc5c48a8e559d0aa5f29a9d7bc95c/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/303dc5c48a8e559d0aa5f29a9d7bc95c/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/a0cbb86786cf9ada8cdfbf423edf777e/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/a0cbb86786cf9ada8cdfbf423edf777e/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5e59ada82126fe562462a9adb669577d/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5e59ada82126fe562462a9adb669577d/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/dd009fc102c21e5c115b77a094230df1/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/dd009fc102c21e5c115b77a094230df1/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/a4e5e840e04342394af2ff687782c5da/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/a4e5e840e04342394af2ff687782c5da/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/42c3babb8e5adf090c14eb2d00dd6d35/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/42c3babb8e5adf090c14eb2d00dd6d35/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/96def0e2baadd5d206216b3bd4cf3343/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/96def0e2baadd5d206216b3bd4cf3343/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/93b8432f875b76997f1af1776cef6481/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/93b8432f875b76997f1af1776cef6481/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8202d0464b2d05de59b16b0b4714b7db/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8202d0464b2d05de59b16b0b4714b7db/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/73e524ddbf184bd0378ccda1b6de5719/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/73e524ddbf184bd0378ccda1b6de5719/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/64121b0ec5ae29a71c391e1d737c2e2a/transformed/jetified-firebase-components-19.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/64121b0ec5ae29a71c391e1d737c2e2a/transformed/jetified-firebase-components-19.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-config-interop:16.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9365e8f0ab5e73739332065b8ce972f9/transformed/jetified-firebase-config-interop-16.0.1/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-config-interop:16.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9365e8f0ab5e73739332065b8ce972f9/transformed/jetified-firebase-config-interop-16.0.1/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e78de79c9d455b4ed0d656bfee5f7b62/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e78de79c9d455b4ed0d656bfee5f7b62/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6fc087e283e932212d2670442be7fd0e/transformed/jetified-firebase-encoders-json-18.0.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6fc087e283e932212d2670442be7fd0e/transformed/jetified-firebase-encoders-json-18.0.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/be996d08a15714b7d2941b418d453b27/transformed/jetified-transport-api-3.2.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/be996d08a15714b7d2941b418d453b27/transformed/jetified-transport-api-3.2.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/2e9e4a13926bb9bb3cf660d5cdccad45/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/2e9e4a13926bb9bb3cf660d5cdccad45/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/083850a24d15f8acc7d0255dd04d3d20/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/083850a24d15f8acc7d0255dd04d3d20/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/3010e6996a7785d8cda6a0dc802c6e7a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/3010e6996a7785d8cda6a0dc802c6e7a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b3f08c34fed3e1b2705c38c1a25e8121/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b3f08c34fed3e1b2705c38c1a25e8121/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/69f9b1b178627aaca0e554b9e8f3e1d5/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/69f9b1b178627aaca0e554b9e8f3e1d5/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bb04b1de86baaef0e00f749cbcbf0345/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bb04b1de86baaef0e00f749cbcbf0345/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d35e19b2bdb43bb015d3769ef47af518/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d35e19b2bdb43bb015d3769ef47af518/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e2ec55bdd25f20f37bfc66d2b26ca16a/transformed/jetified-googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e2ec55bdd25f20f37bfc66d2b26ca16a/transformed/jetified-googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9422f573cec78dc23009831f436d330b/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9422f573cec78dc23009831f436d330b/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4e3e2e18706163f8a8e5c7b283c0db9f/transformed/jetified-protolite-well-known-types-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/4e3e2e18706163f8a8e5c7b283c0db9f/transformed/jetified-protolite-well-known-types-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/c8cd20be104ba767211703ce1bb7b698/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/c8cd20be104ba767211703ce1bb7b698/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/FoodOrderApp/app/src/main/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-sessions:3.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/36b88ae17a4c34ab1cb1ba01dd96b6bd/transformed/jetified-firebase-sessions-3.0.6/AndroidManifest.xml:26:9-32:19
+MERGED from [com.google.firebase:firebase-sessions:3.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/36b88ae17a4c34ab1cb1ba01dd96b6bd/transformed/jetified-firebase-sessions-3.0.6/AndroidManifest.xml:26:9-32:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e78de79c9d455b4ed0d656bfee5f7b62/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e78de79c9d455b4ed0d656bfee5f7b62/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:22:9-28:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:14:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:13:13-84
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.FirebaseCrashlyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:16:17-126
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/18eac715e3f316095cb233528d0b6f62/transformed/jetified-firebase-crashlytics-20.0.6/AndroidManifest.xml:19:17-115
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/71416cf7370f3cf2101a8cfc8c311d26/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/989bc080a14582078ed4ade3bdcd2e64/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/989bc080a14582078ed4ade3bdcd2e64/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8202d0464b2d05de59b16b0b4714b7db/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/8202d0464b2d05de59b16b0b4714b7db/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/71416cf7370f3cf2101a8cfc8c311d26/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/71416cf7370f3cf2101a8cfc8c311d26/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/71416cf7370f3cf2101a8cfc8c311d26/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/71416cf7370f3cf2101a8cfc8c311d26/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/71416cf7370f3cf2101a8cfc8c311d26/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/71416cf7370f3cf2101a8cfc8c311d26/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/71416cf7370f3cf2101a8cfc8c311d26/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/38fb93ee4f8005569c8ed6824276b273/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/38fb93ee4f8005569c8ed6824276b273/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:20:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9422f573cec78dc23009831f436d330b/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/9422f573cec78dc23009831f436d330b/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/94d868da8954a499c18dc97cf9285c1d/transformed/jetified-firebase-auth-24.0.0/AndroidManifest.xml:70:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/bcbafc3a54c2302d0d6eb477b2cafda9/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d9aae0b3b430f7678f96085ec4b941a0/transformed/jetified-play-services-auth-21.1.1/AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:26.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5612976b9443ac6af5bb3a1b07760c51/transformed/jetified-firebase-firestore-26.0.0/AndroidManifest.xml:21:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/ec3c1a41014ebabcafc1a1a38e033252/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/ec3c1a41014ebabcafc1a1a38e033252/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/ec3c1a41014ebabcafc1a1a38e033252/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/ec3c1a41014ebabcafc1a1a38e033252/transformed/jetified-play-services-base-18.3.0/AndroidManifest.xml:20:19-85
+service#com.google.firebase.sessions.SessionLifecycleService
+ADDED from [com.google.firebase:firebase-sessions:3.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/36b88ae17a4c34ab1cb1ba01dd96b6bd/transformed/jetified-firebase-sessions-3.0.6/AndroidManifest.xml:22:9-25:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-sessions:3.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/36b88ae17a4c34ab1cb1ba01dd96b6bd/transformed/jetified-firebase-sessions-3.0.6/AndroidManifest.xml:24:13-36
+	android:exported
+		ADDED from [com.google.firebase:firebase-sessions:3.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/36b88ae17a4c34ab1cb1ba01dd96b6bd/transformed/jetified-firebase-sessions-3.0.6/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-sessions:3.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/36b88ae17a4c34ab1cb1ba01dd96b6bd/transformed/jetified-firebase-sessions-3.0.6/AndroidManifest.xml:23:13-80
+meta-data#com.google.firebase.components:com.google.firebase.sessions.FirebaseSessionsRegistrar
+ADDED from [com.google.firebase:firebase-sessions:3.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/36b88ae17a4c34ab1cb1ba01dd96b6bd/transformed/jetified-firebase-sessions-3.0.6/AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-sessions:3.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/36b88ae17a4c34ab1cb1ba01dd96b6bd/transformed/jetified-firebase-sessions-3.0.6/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-sessions:3.0.6] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/36b88ae17a4c34ab1cb1ba01dd96b6bd/transformed/jetified-firebase-sessions-3.0.6/AndroidManifest.xml:30:17-117
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/5b7876fe8e3f7c7b8425d5d8bb42e555/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e3b68e3903b947fcbbfa501606ce2509/transformed/jetified-firebase-common-22.0.1/AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/38fb93ee4f8005569c8ed6824276b273/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/38fb93ee4f8005569c8ed6824276b273/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:9:22-95
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/989bc080a14582078ed4ade3bdcd2e64/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/989bc080a14582078ed4ade3bdcd2e64/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/989bc080a14582078ed4ade3bdcd2e64/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.8.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b3686b756658dbcd5d933af85060c533/transformed/jetified-play-services-basement-18.8.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.8.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b3686b756658dbcd5d933af85060c533/transformed/jetified-play-services-basement-18.8.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.8.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/b3686b756658dbcd5d933af85060c533/transformed/jetified-play-services-basement-18.8.0/AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.foodorderapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.foodorderapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/6ff6e5b1828d3b6ab6715e72e25359a3/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/0d53310754a1dac24aff35649b213abf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e78de79c9d455b4ed0d656bfee5f7b62/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e78de79c9d455b4ed0d656bfee5f7b62/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/e78de79c9d455b4ed0d656bfee5f7b62/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:26:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:26:9-32:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:34:9-36:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:27:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:29:13-31:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:31:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/d238b040eddcaccfece7f2db3a3b99df/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:30:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:24:9-28:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:26:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:25:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/005fd518470de40cf9adbf45a9f64fb8/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:31:13-132
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/c8cd20be104ba767211703ce1bb7b698/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/c8cd20be104ba767211703ce1bb7b698/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/c8cd20be104ba767211703ce1bb7b698/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/c8cd20be104ba767211703ce1bb7b698/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/caches/9.4.1/transforms/c8cd20be104ba767211703ce1bb7b698/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:15:13-93

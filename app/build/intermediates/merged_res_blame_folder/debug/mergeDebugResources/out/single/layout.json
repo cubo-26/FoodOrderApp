@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/activity_login.xml",
+        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/activity_main.xml",
+        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-mergeDebugResources-6:/layout/activity_main.xml",
+        "source": "com.example.foodorderapp-main-9:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/dialog_add_edit_food.xml",
+        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/dialog_add_edit_food.xml"
+    },
+    {
+        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/activity_splash.xml",
+        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/item_food.xml",
+        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/item_food.xml"
+    },
+    {
+        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/activity_food_detail.xml",
+        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/activity_food_detail.xml"
+    },
+    {
+        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/activity_invoice.xml",
+        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/activity_invoice.xml"
+    },
+    {
+        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/item_invoice_row.xml",
+        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/item_invoice_row.xml"
+    },
+    {
+        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/item_cart.xml",
+        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/item_cart.xml"
+    },
+    {
+        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/activity_cart.xml",
+        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/activity_register.xml",
+        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/item_manage_food.xml",
+        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/item_manage_food.xml"
+    },
+    {
+        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/activity_manage.xml",
+        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/activity_manage.xml"
+    }
+]

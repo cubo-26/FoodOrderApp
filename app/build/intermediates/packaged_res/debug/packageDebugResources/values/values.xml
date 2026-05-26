@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="accent_yellow">#FFB800</color>
+    <color name="background_light">#F7F3EF</color>
+    <color name="black">#FF000000</color>
+    <color name="blue_strong">#009900</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider_color">#EFEFEF</color>
+    <color name="error_red">#E74C3C</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="info_blue">#3498DB</color>
+    <color name="overlay_dark">#66000000</color>
+    <color name="primary_green">#82C038</color>
+    <color name="primary_green_dark">#6AA32E</color>
+    <color name="primary_orange">#FF6B35</color>
+    <color name="primary_orange_dark">#E55A28</color>
+    <color name="primary_orange_light">#FF8F66</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="star_yellow">#FFB800</color>
+    <color name="success_green">#2ECC71</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_hint">#AEAEC0</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B6B8A</color>
+    <color name="warning_orange">#F39C12</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add_to_cart">Thêm vào giỏ</string>
+    <string name="app_name">DLU Food</string>
+    <string name="cart">Giỏ hàng</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id" tools:ignore="UnusedResources,TypographyDashes" translatable="false">00000000000000000000000000000000</string>
+    <string name="com.google.firebase.crashlytics.version_control_info">""</string>
+    <string name="default_web_client_id">8363604912-aula2ss7ntpc5a334isuhof0cil3c9o2.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://app-food-oder-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">8363604912</string>
+    <string name="google_api_key" translatable="false">AIzaSyBdmnfaCqVAAL3614ruYqZeKrnWG-MXbNc</string>
+    <string name="google_app_id" translatable="false">1:8363604912:android:638ea3f61db1a509d63475</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBdmnfaCqVAAL3614ruYqZeKrnWG-MXbNc</string>
+    <string name="google_storage_bucket" translatable="false">app-food-oder.firebasestorage.app</string>
+    <string name="invoice">Hóa đơn</string>
+    <string name="manage_foods">Quản lý món ăn</string>
+    <string name="order_now">Đặt ngay</string>
+    <string name="place_order">Đặt hàng</string>
+    <string name="project_id" translatable="false">app-food-oder</string>
+    <string name="search_hint">Tìm kiếm món ăn...</string>
+    <style name="CustomDialogStyle" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="colorPrimary">@color/primary_orange</item>
+        <item name="android:windowMinWidthMajor">90%</item>
+        <item name="android:windowMinWidthMinor">90%</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="android:colorBackground">@color/white</item>
+    </style>
+    <style name="Theme.FoodOrderApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_orange</item>
+        <item name="colorPrimaryVariant">@color/primary_orange_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent_yellow</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        <item name="android:colorBackground">@color/background_light</item>
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorError">@color/error_red</item>
+        <item name="android:statusBarColor">@color/primary_orange</item>
+        <item name="android:navigationBarColor">@color/white</item>
+    </style>
+    <style name="Theme.FoodOrderApp.Splash" parent="Theme.FoodOrderApp">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item> 
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Widget.App.Chip" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_background_selector</item>
+        <item name="android:textColor">@color/chip_text_selector</item>
+        <item name="chipStrokeColor">@color/primary_orange</item>
+        <item name="chipStrokeWidth">1dp</item>
+    </style>
+</resources>
