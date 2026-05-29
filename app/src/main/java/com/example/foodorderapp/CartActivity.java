@@ -169,26 +169,39 @@ public class CartActivity extends AppCompatActivity implements CartAdapter.OnCar
         order.setCustomerName(name);
         order.setCustomerPhone(phone);
         order.setDeliveryAddress(address);
-
-        String note = etOrderNote.getText() != null ? etOrderNote.getText().toString() : "";
-        order.setNote(note);
-
-        int selectedPayment = rgPayment.getCheckedRadioButtonId();
-        if (selectedPayment == R.id.rbCash) {
-            order.setPaymentMethod("Tiền mặt khi nhận hàng");
-        } else if (selectedPayment == R.id.rbBankTransfer) {
-            order.setPaymentMethod("Chuyển khoản ngân hàng");
-        } else if (selectedPayment == R.id.rbMomo) {
-            order.setPaymentMethod("Ví MoMo");
-        } else {
-            order.setPaymentMethod("Tiền mặt khi nhận hàng");
-        }
-
         order.calculateTotals();
 
-        Intent intent = new Intent(this, InvoiceActivity.class);
-        intent.putExtra("order", order);
-        startActivity(intent);
+        // Lưu đơn hàng vào Firestore
+        com.google.firebase.auth.FirebaseUser user = com.google.firebase.auth.FirebaseAuth.getInstance().getCurrentUser();
+        if (user != null) {
+            order.setOrderId("ORD-" + System.currentTimeMillis()); // Đảm bảo ID duy nhất
+            com.google.firebase.firestore.FirebaseFirestore.getInstance()
+                    .collection("orders")
+                    .document(order.getOrderId())
+                    .set(order)
+                    .addOnSuccessListener(aVoid -> {
+                        String note = etOrderNote.getText() != null ? etOrderNote.getText().toString() : "";
+                        order.setNote(note);
+
+                        int selectedPayment = rgPayment.getCheckedRadioButtonId();
+                        if (selectedPayment == R.id.rbCash) {
+                            order.setPaymentMethod("Tiền mặt khi nhận hàng");
+                        } else if (selectedPayment == R.id.rbBankTransfer) {
+                            order.setPaymentMethod("Chuyển khoản ngân hàng");
+                        } else if (selectedPayment == R.id.rbMomo) {
+                            order.setPaymentMethod("Ví MoMo");
+                        } else {
+                            order.setPaymentMethod("Tiền mặt khi nhận hàng");
+                        }
+
+                        Intent intent = new Intent(this, InvoiceActivity.class);
+                        intent.putExtra("order", order);
+                        startActivity(intent);
+                    })
+                    .addOnFailureListener(e -> {
+                        Toast.makeText(this, "Lỗi đặt hàng: " + e.getMessage(), Toast.LENGTH_SHORT).show();
+                    });
+        }
     }
 
     @Override

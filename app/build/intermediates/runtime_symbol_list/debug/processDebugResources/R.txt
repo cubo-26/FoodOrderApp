@@ -3070,6 +3070,7 @@ int drawable googleg_disabled_color_18 0x7f0700a5
 int drawable googleg_standard_color_18 0x7f0700a6
 int drawable gradient_bottom_overlay 0x7f0700a7
 int drawable ic_add 0x7f0700a8
+int drawable ic_add_orange 0x7f070115
 int drawable ic_arrow_back_black_24 0x7f0700a9
 int drawable ic_back_white 0x7f0700aa
 int drawable ic_cart 0x7f0700ab

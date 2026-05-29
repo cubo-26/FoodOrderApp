@@ -4,12 +4,12 @@
         "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/anim/slide_up.xml"
     },
     {
-        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-debug-7:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
-    },
-    {
         "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-debug-7:/drawable_ic_delete.xml.flat",
         "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-debug-7:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
         "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-debug-7:/layout_dialog_add_edit_food.xml.flat",
@@ -32,6 +32,10 @@
         "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/item_cart.xml"
     },
     {
+        "merged": "com.example.foodorderapp-debug-7:/layout_activity_splash.xml.flat",
+        "source": "com.example.foodorderapp-main-9:/layout/activity_splash.xml"
+    },
+    {
         "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-debug-7:/drawable_ic_launcher_foreground.xml.flat",
         "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/drawable/ic_launcher_foreground.xml"
     },
@@ -50,6 +54,10 @@
     {
         "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-debug-7:/drawable_ic_clock.xml.flat",
         "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-debug-7:/drawable_ic_add_orange.xml.flat",
+        "source": "com.example.foodorderapp-main-9:/drawable/ic_add_orange.xml"
     },
     {
         "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-debug-7:/drawable_ic_splash_logo.xml.flat",
@@ -176,6 +184,10 @@
         "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/drawable/ic_add.xml"
     },
     {
+        "merged": "com.example.foodorderapp-debug-7:/layout_activity_food_detail.xml.flat",
+        "source": "com.example.foodorderapp-main-9:/layout/activity_food_detail.xml"
+    },
+    {
         "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-debug-7:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
         "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/mipmap-hdpi/ic_launcher_foreground.webp"
     },
@@ -246,10 +258,6 @@
     {
         "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-debug-7:/color_chip_background_selector.xml.flat",
         "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/color/chip_background_selector.xml"
-    },
-    {
-        "merged": "com.example.foodorderapp-debug-7:/layout_activity_register.xml.flat",
-        "source": "com.example.foodorderapp-main-9:/layout/activity_register.xml"
     },
     {
         "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-debug-7:/drawable_btn_icon_white_bg.xml.flat",

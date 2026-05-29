@@ -3071,6 +3071,7 @@ drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable gradient_bottom_overlay
 drawable ic_add
+drawable ic_add_orange
 drawable ic_arrow_back_black_24
 drawable ic_back_white
 drawable ic_cart

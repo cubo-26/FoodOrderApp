@@ -48,6 +48,7 @@ drawable chip_status_processing
 drawable dlu_logo
 drawable gradient_bottom_overlay
 drawable ic_add
+drawable ic_add_orange
 drawable ic_back_white
 drawable ic_cart
 drawable ic_check

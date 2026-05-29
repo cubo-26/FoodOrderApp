@@ -228,7 +228,12 @@ public class DataManager {
 
     public void addToCart(Food food, int quantity, String note) {
         CollectionReference cartRef = getCartItemsRef();
-        if (cartRef == null) return;
+        if (cartRef == null) {
+            Log.e(TAG, "Cannot add to cart: User not logged in");
+            return;
+        }
+
+        Log.d(TAG, "Adding to cart: " + food.getName() + ", qty: " + quantity);
 
         cartRef.document(food.getId()).get().addOnSuccessListener(documentSnapshot -> {
             if (documentSnapshot.exists()) {
@@ -236,11 +241,17 @@ public class DataManager {
                 if (existing != null) {
                     existing.setQuantity(existing.getQuantity() + quantity);
                     if (note != null && !note.isEmpty()) existing.setNote(note);
-                    cartRef.document(food.getId()).set(existing);
+                    cartRef.document(food.getId()).set(existing)
+                        .addOnSuccessListener(aVoid -> Log.d(TAG, "Updated cart item successfully"))
+                        .addOnFailureListener(e -> Log.e(TAG, "Failed to update cart item", e));
                 }
             } else {
-                cartRef.document(food.getId()).set(new CartItem(food, quantity, note));
+                cartRef.document(food.getId()).set(new CartItem(food, quantity, note))
+                    .addOnSuccessListener(aVoid -> Log.d(TAG, "Added new cart item successfully"))
+                    .addOnFailureListener(e -> Log.e(TAG, "Failed to add cart item", e));
             }
+        }).addOnFailureListener(e -> {
+            Log.e(TAG, "Error checking existing cart item", e);
         });
     }
 
