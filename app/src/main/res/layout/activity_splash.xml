@@ -22,7 +22,7 @@
         android:id="@+id/tvSplashName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Đà Lạt FOOD"
+        android:text="DLU FOOD"
         android:textColor="@color/blue_strong"
         android:textSize="42sp"
         android:fontFamily="sans-serif-medium"

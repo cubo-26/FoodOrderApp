@@ -8,10 +8,6 @@
         "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.foodorderapp-mergeDebugResources-6:/layout/activity_main.xml",
-        "source": "com.example.foodorderapp-main-9:/layout/activity_main.xml"
-    },
-    {
         "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/dialog_add_edit_food.xml",
         "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/dialog_add_edit_food.xml"
     },
@@ -48,11 +44,19 @@
         "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/activity_register.xml"
     },
     {
+        "merged": "com.example.foodorderapp-mergeDebugResources-6:/layout/activity_login.xml",
+        "source": "com.example.foodorderapp-main-9:/layout/activity_login.xml"
+    },
+    {
         "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/item_manage_food.xml",
         "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/item_manage_food.xml"
     },
     {
         "merged": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-mergeDebugResources-6:/layout/activity_manage.xml",
         "source": "/Users/hieumy/Documents/V.Huy/2312635_TranDinhVietHuy/foodApp/daemon/9.4.1/com.example.foodorderapp-main-9:/layout/activity_manage.xml"
+    },
+    {
+        "merged": "com.example.foodorderapp-mergeDebugResources-6:/layout/activity_register.xml",
+        "source": "com.example.foodorderapp-main-9:/layout/activity_register.xml"
     }
 ]
